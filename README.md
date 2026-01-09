@@ -154,5 +154,10 @@ The UI is built on a **Modular CSS** principle. You can update the primary brand
 ---
 
 **Crafted with precision for high-end automotive rental solutions.**
+## 📞 Support
 
-Would you like me to help you create a specific **CSS Color Theme** or **JavaScript Validation Script** to include in these folders?
+For issues and questions, please open an issue on GitHub.
+
+---
+
+**Made with ❤️ for smart attendance tracking**
